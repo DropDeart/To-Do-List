@@ -1,6 +1,6 @@
-#To-Do List Project
+# To-Do List Project
 You can write what you want to do here
-#File Content
+### File Content
 To-Do App (folder)
 |
 |----readme.md                 
